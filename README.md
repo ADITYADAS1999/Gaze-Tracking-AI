@@ -15,9 +15,7 @@ https://learnopencv.com/gaze-tracking/
 <p><img src="https://user-images.githubusercontent.com/58718316/166853693-448df196-13c0-4a36-b8ab-e5bdda30060a.jpg"></p>
 
 
-
-
-In today’s post, we are covering the topic of Gaze Estimation and Tracking.
+<p> In today’s post, we are covering the topic of Gaze Estimation and Tracking.
 
 I was invited to give a talk on the subject at a workshop on Eye Tracking for AR and VR organized by Facebook Research at the International Conference on Computer Vision (2019).
 
@@ -30,7 +28,7 @@ Simply put, in gaze estimation / tracking, we want to find where a person is loo
 There are two setup
 
 1. Screen Based (or Remote ) Gaze Tracking
-2. Gaze Tracking in Wearable Devices
+2. Gaze Tracking in Wearable Devices </P>
 
 
 
